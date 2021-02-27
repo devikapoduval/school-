@@ -1,0 +1,217 @@
+#video{
+    width:100%;
+    height:100%;
+}
+
+
+
+#map{
+    width:100%;
+    height:100%;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #f7054f 10%, #485af2 70%);
+}
+
+#nameschool {
+    color: black;
+    font-family: fantasy;
+    padding-top: 18px;
+}
+
+#address {
+    color: floralwhite;
+    font-family: 'Lobster', cursive;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+}
+
+.marquee {
+    height: 50px;
+    overflow: hidden;
+    position: relative;
+    color: #333;
+}
+
+#schoolimg {
+    border: 5px solid;
+    border-color: darkgreen;
+    border-radius: 10px;
+    height: 400px;
+    width: 750px;
+}
+
+.links,
+.navbar-brand {
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links: hover {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.menu {
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    height: 33px;
+    margin-top: 0px;
+    z-index: 10;
+    top: 0px;
+}
+
+#number {
+    font-size: 30px;
+    border: 3px solid;
+    border-color: black;
+    color: antiquewhite;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#title {
+    font-size: 30px;
+    color: yellow;
+    font-weight: bold;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 340px;
+    margin: 8px auto;
+}
+
+#song,
+#alumni {
+    font-size: 20px;
+    color: cornsilk;
+    font-family: monospace;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#image {
+    width: 500px;
+    padding: 20px;
+    border: 3px solid;
+    border-style: groove;
+}
+
+marquee {
+    font-size: 25px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+
+#bestschool {
+    font-variant-caps: petite-caps;
+    font-family: 'Jomhuria', cursive;
+    font-size: 50px;
+    border: 3px solid;
+    border-color: white;
+    color: lightcyan;
+    padding: 20px;
+    border-width: 5px;
+}
+
+#description {
+    font-size: 20px;
+    color: oldlace;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-family: 'Sriracha', cursive;
+}
+
+
+#housedesc,
+#descri,
+#desript {
+    color: papayawhip;
+    font-size: 25px;
+    padding-bottom: 10px;
+
+    font-family: 'Caveat', cursive;
+
+}
+
+#housedesc,
+#descri {
+    border-bottom: 2px solid;
+    border-color: black;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.houses span {
+    color: #ff7700;
+}
+
+.houses i {
+    float: right;
+    margin-right: 30px;
+
+}
+
+.houses {
+    padding-bottom: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.prefect {
+    padding-bottom: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.acti {
+    padding-bottom: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.acti span {
+    color: #ff7700;
+}
+
+.prefect span {
+    color: #ff7700;
+}
+
+.acti i,
+.prefect i {
+    float: right;
+    margin-right: 30px;
+}
+
+#houses,
+#PrefectSystem,
+#COCURRICULARACTIVITIES {
+    color: darkred;
+    font-size: 22px;
+    font-weight: bolder;
+    padding: 25px;
+
+}
+
+
